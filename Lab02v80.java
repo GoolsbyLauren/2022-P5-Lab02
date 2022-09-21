@@ -18,6 +18,8 @@ public class Lab02v80 {
         System.out.println("# #   # #   #   ##### #   # # # # #   #   #####");
         System.out.println("# #   # #   #   #     #   # # #  ##   #       #");
         System.out.println("# ##### #####   #     ##### # #   #   #   #####");
+        System.out.println();
+
     }
 
 }
